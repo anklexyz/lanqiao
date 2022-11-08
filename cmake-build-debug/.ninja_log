@@ -1,0 +1,6 @@
+# ninja log v5
+29	224	1667789844057464400	CMakeFiles/lanqiao.dir/arrarysort.c.o	3ace1785eab8a4ee
+2	199	1667789844029258200	CMakeFiles/lanqiao.dir/main.c.o	e90f20959acbc615
+4	171	1667790121157229200	build.ninja	2aa443341841e998
+0	138	1667790131133261600	CMakeFiles/arrarysort.dir/arrarysort.c.o	8414dfa50e68f609
+140	364	1667790131359259900	arrarysort.exe	ded754fdc9079d49

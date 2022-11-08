@@ -1,0 +1,4 @@
+/cygdrive/e/Projects/Clion_Projects/lanqiao/cmake-build-debug/CMakeFiles/main.dir
+/cygdrive/e/Projects/Clion_Projects/lanqiao/cmake-build-debug/CMakeFiles/arrarysort.dir
+/cygdrive/e/Projects/Clion_Projects/lanqiao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/e/Projects/Clion_Projects/lanqiao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
